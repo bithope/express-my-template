@@ -23,7 +23,7 @@ app.get("/", function (req, res) {
       day = "Wednesday";
       break;
     case 4:
-      day = "Thusrday";
+      day = "Thursday";
       break;
     case 5:
       day = "Friday";
